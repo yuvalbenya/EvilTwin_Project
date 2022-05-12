@@ -7,8 +7,8 @@ installation required are specified in installation.sh
 
 
 after you've finished installing run the following command to execute the code (sudo is a must) : 
- ```sudo python3 EvilTwinTool.py
-i
+ ```sudo python3 EvilTwinTool.py ```
+
 step 1: enter 1 for attack and 0 for defence
 
 step 2: you are shown all wifi interfaces, choose 1 to use the tool on
@@ -18,7 +18,7 @@ step 3: choose an ap to attack
 step 4: choose a client to deauth from the chosen ap
 
 step 5: now the client is deauth'ed from the network, and an ap that redirects every http request to the captive portal and saves the password
-in a file called passwords.txt
+in a file called password.txt
 
 step 6: exit the program using Ctrl + C whenever you get a password entry 
  
