@@ -3,9 +3,11 @@
 this repository contains an evil twin tool to hack a network password
 
 
-installation required are specified in installation.sh
+installation required are specified in installation.sh 
 
-after you've finished installing run the following command to execute the code (sudo is a must) :  sudo python3 EvilTwinTool.py
+
+after you've finished installing run the following command to execute the code (sudo is a must) : 
+ ```sudo python3 EvilTwinTool.py
 i
 step 1: enter 1 for attack and 0 for defence
 
