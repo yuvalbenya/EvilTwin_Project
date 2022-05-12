@@ -21,3 +21,10 @@ in a file called passwords.txt
 step 6: exit the program using Ctrl + C whenever you get a password entry 
  
 step 7: enjoy the free wifi :)
+
+# Collaborators
+* [Tal Schreiber](https://github.com/TalSchreiber95), ID: 313264947
+* [Omer Shalom](https://github.com/Omer2041), ID: 204124945
+* [Yuval Ben Yacov](https://github.com/yuvalbenya), ID: 315341552
+* [Natali Djavarov](https://github.com/natalidjavarov), ID: 208419523
+
