@@ -7,3 +7,4 @@ sudo npm install -g nodemon
 cd captive_portal
 sudo npm install
 cd ..
+sudo apt-install python3.8
